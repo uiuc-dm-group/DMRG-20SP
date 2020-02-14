@@ -4,7 +4,7 @@
 
 参与成员：Yingjun Guan, Liri Fang, Mengfei Lan, Yixing Hu, Yiren Liu, Xiaoliang Jiang, Lan Li
 
-小组讨论录像：Click here
+小组讨论录像：[Click here](https://www.youtube.com/watch?v=k4W4dJHNh_I&list=PL7rCj4BKz9kk0l-B50E3TVjXdjWSETjPq&index=1)
 
 
 ===
