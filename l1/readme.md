@@ -6,6 +6,8 @@
 
 小组讨论录像：[Click here](https://www.youtube.com/watch?v=k4W4dJHNh_I&list=PL7rCj4BKz9kk0l-B50E3TVjXdjWSETjPq&index=1)
 
+小组用Google doc: https://docs.google.com/document/d/1D4whF7vcEvn7nvDN2R5JLuXdJ0-SGGBozyoWD5JvtzU/edit
+
 
 ===
 
