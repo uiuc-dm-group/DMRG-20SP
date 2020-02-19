@@ -1,6 +1,6 @@
 学习主题：Lecture 4: Recurrent Networks for Sentence or Language Modeling
 
-活动时间: 02.18.2020
+活动时间: 02.20.2020
 
 参与成员：
 
