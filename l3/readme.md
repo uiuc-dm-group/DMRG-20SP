@@ -2,7 +2,7 @@
 
 活动时间: 02.18.2020
 
-参与成员：Yiren Liu, Yingjun Guan, Liri Fang, Lan Li, Yixing Hu, Mengfei Lan, Goazheng Liu.
+参与成员：Yiren Liu, Yingjun Guan, Liri Fang, Lan Li, Yixing Hu, Mengfei Lan, Gaozheng Liu.
 
 小组讨论录像：Click [here](https://youtu.be/FbOrDrD-gVA)
 
