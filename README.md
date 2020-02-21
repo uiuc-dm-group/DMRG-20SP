@@ -1,6 +1,8 @@
 # DMRG-20SP
 学习小组，主课程CMU CS11-747, Neural Network for NLP.
 
+we meet every Tuesday and Thursday, 3:30 - 4:30 both in person and via Zoom [here](https://zoom.us/j/400853409). 
+
 study plan:
 
 
