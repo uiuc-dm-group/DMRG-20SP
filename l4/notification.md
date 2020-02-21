@@ -4,9 +4,9 @@
 
 
 感谢今天大家的参与和讨论。特别感谢李岚和姜岚的领讲。大家如果想领讲其他的章节，也欢迎私下联系我。
-今天的讨论文档在这里，https://docs.google.com/document/d/1D4whF7vcEvn7nvDN2R5JLuXdJ0-SGGBozyoWD5JvtzU/edit#
-今天的讨论视频在这里，https://www.youtube.com/watch?v=aA14_J-8HXU&list=PL7rCj4BKz9kk0l-B50E3TVjXdjWSETjPq&index=7&t=0s 分成Part1, Part2 两部分。
-Lecture 4的所有资料汇总在这里，https://github.com/uiuc-dm-group/DMRG-20SP/tree/master/l4
+* 今天的讨论文档在这里，https://docs.google.com/document/d/1D4whF7vcEvn7nvDN2R5JLuXdJ0-SGGBozyoWD5JvtzU/edit#
+* 今天的讨论视频在这里，https://www.youtube.com/watch?v=aA14_J-8HXU&list=PL7rCj4BKz9kk0l-B50E3TVjXdjWSETjPq&index=7&t=0s 分成Part1, Part2 两部分。
+* Lecture 4的所有资料汇总在这里，https://github.com/uiuc-dm-group/DMRG-20SP/tree/master/l4
 
 今天课程结束后，大家还针对未来的学习形式和内容进行了讨论，一些主要的结论如下，大家过目。
 
