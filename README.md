@@ -6,7 +6,7 @@ study plan:
 
 | Date       | Lecture | Topic | Topic Leader      | Contents |   |
 |------------|---------|-------|-------------------|----------|---|
-|            | L1      |       |                   |          |   |
-|            | L2      |       |                   |          |   |
-|            | L3      |       | Liri Fang         |          |   |
-| 02/20/2020 | L4      | RNN   | Lan Li, Lan Jiang |          |   |
+| 02/11/2020 |    L1   |       |                   |          |   |
+| 02/13/2020 |    L2   |       |                   |          |   |
+| 02/18/2020 |    L3   | CNN   | Liri Fang         |          |   |
+| 02/20/2020 |    L4   | RNN   | Lan Li, Lan Jiang |    [Here](https://github.com/uiuc-dm-group/DMRG-20SP/tree/master/l4) |   |
