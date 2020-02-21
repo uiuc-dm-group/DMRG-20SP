@@ -17,6 +17,7 @@ Yingjun Guan, Liri Fang, Mengfei Lan, Yixing Hu, Yiren Liu, Xiaoliang Jiang, Lan
 | 02/25/2020 |    L5   | Efficiency Tricks for Neural Nets  | Mengfei Lan |          |   |
 | 02/27/2020 |    L6   | Conditioned generation | Ziqi Jiang |          |   |
 | 03/03/2020 |    L7   | Attention | Yiren Liu |          |   |
-| 03/05/2020 |    L8   | Distributional Semantics and Word Vectors  | Yanzu Hu |          |   |
+| 03/05/2020 |    L8   | Distributional Semantics and Word Vectors  | Yixing Hu |          |   |
 
-## 
+## Other comments:
+course webpage: http://www.phontron.com/class/nn4nlp2020/
