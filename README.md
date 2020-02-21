@@ -1,10 +1,12 @@
 # DMRG-20SP
-学习小组，主课程CMU CS11-747, Neural Network for NLP.
+Welcome to our Data Mining Reading Group (DMRG). This semester, we will focus on the course from CMU CS11-747, Neural Network for NLP.
 
 we meet every Tuesday and Thursday, 3:30 - 4:30 both in person and via Zoom [here](https://zoom.us/j/400853409). 
 
-study plan:
+## Group Members:
+Yingjun Guan, Liri Fang, Mengfei Lan, Yixing Hu, Yiren Liu, Xiaoliang Jiang, Lan Li, Ziqi Jiang, Gaozheng Liu, Zhe Zhang.
 
+## study schedule:
 
 | Date       | Lecture | Topic | Topic Leader      | Contents |   |
 |------------|---------|-------|-------------------|----------|---|
@@ -16,3 +18,5 @@ study plan:
 | 02/27/2020 |    L6   | Conditioned generation | Ziqi Jiang |          |   |
 | 03/03/2020 |    L7   | Attention | Yiren Liu |          |   |
 | 03/05/2020 |    L8   | Distributional Semantics and Word Vectors  | Yanzu Hu |          |   |
+
+## 
