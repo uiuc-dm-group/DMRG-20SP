@@ -2,11 +2,11 @@
 
 活动时间: 02.20.2020
 
-参与成员：
+参与成员：Lan Li, Lan Jiang, Yingjun Guan, Ziqi Jiang, Yiren Liu, Yixing Hu, Xiaoliang Jiang
 
 领讲人：李岚，姜岚
 
-小组讨论录像：Click [here]()
+小组讨论录像：Click [here](https://youtu.be/aA14_J-8HXU)
 
 其他学习资料如下：
 
