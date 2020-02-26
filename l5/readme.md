@@ -6,7 +6,7 @@
 
 领讲人：蓝梦菲
 
-小组讨论录像：Click here [Part 1](https://youtu.be/KDkZseYhFvU) [Part 2](https://youtu.be/nBRlxNQG1xc)
+小组讨论录像：Click here: [Part 1](https://youtu.be/KDkZseYhFvU) [Part 2](https://youtu.be/nBRlxNQG1xc)
 
 其他学习资料如下：
 
