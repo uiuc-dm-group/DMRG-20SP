@@ -18,7 +18,7 @@ Yingjun Guan, Liri Fang, Mengfei Lan, Yixing Hu, Yiren Liu, Xiaoliang Jiang, Lan
 | 02/27/2020 |    L6   | Conditioned generation | Ziqi Jiang | [Here](https://github.com/uiuc-dm-group/DMRG-20SP/tree/master/l6) |   |
 | 03/03/2020 |    L7   | Attention | Yiren Liu | [Here](https://github.com/uiuc-dm-group/DMRG-20SP/tree/master/l7) |   |
 | 03/05/2020 |    L8   | Distributional Semantics and Word Vectors  | Yixing Hu | [Here](https://github.com/uiuc-dm-group/DMRG-20SP/tree/master/l8) |   |
-| 03/10/2020 |    Sp1  | Course Presentation Rehearsal  | Lan Li | [Here](https://github.com/uiuc-dm-group/DMRG-20SP/tree/master/sp1) |   |
+| 03/10/2020 |    Sp1  | Paper Presentation Rehearsal  | Lan Li | [Here](https://github.com/uiuc-dm-group/DMRG-20SP/tree/master/sp1) |   |
 
 ## Other comments:
 course webpage: http://www.phontron.com/class/nn4nlp2020/
