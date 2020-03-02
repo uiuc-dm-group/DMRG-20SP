@@ -6,7 +6,7 @@
 
 领讲人：Ziqi Jiang
 
-小组讨论录像：Click [here]()
+小组讨论录像：Click [here](https://youtu.be/wb7SPyEGLpw)
 
 其他学习资料如下：
 
