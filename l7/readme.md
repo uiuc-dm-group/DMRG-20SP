@@ -10,7 +10,8 @@
 
 小组讨论文档：Click [here](https://docs.google.com/document/d/1D4whF7vcEvn7nvDN2R5JLuXdJ0-SGGBozyoWD5JvtzU/edit#)
 
-辅助ppt: [here](https://docs.google.com/presentation/d/1-zGY-VR5ryhKlPALJLE6oVe5s1AEyAG8t9blxESl4jM/edit?usp=sharing）
+辅助ppt: https://docs.google.com/presentation/d/1-zGY-VR5ryhKlPALJLE6oVe5s1AEyAG8t9blxESl4jM/edit?usp=sharing
+
 
 其他学习资料如下：
 
