@@ -1,10 +1,10 @@
 # DMRG-20SP
 Welcome to our Data Mining Reading Group (DMRG). This semester, we will focus on the course from CMU CS11-747, Neural Network for NLP.
 
-we meet every Tuesday and Thursday, 3:30 - 4:30 both in person and via Zoom [here](https://zoom.us/j/400853409). 
+we meet every Tuesday and Thursday, 3:30 - 4:30 both in person and via Zoom [here](https://zoom.us/j/823397955). 
 
 ## Group Members:
-Yingjun Guan, Liri Fang, Mengfei Lan, Yixing Hu, Yiren Liu, Xiaoliang Jiang, Lan Li, Ziqi Jiang, Gaozheng Liu, Zhe Zhang.
+Yingjun Guan, Liri Fang, Mengfei Lan, Yixing Hu, Yiren Liu, Xiaoliang Jiang, Lan Li, Ziqi Jiang, Gaozheng Liu, Zhe Zhang, Lan Wang, Haoran Zhang.
 
 ## study schedule:
 
