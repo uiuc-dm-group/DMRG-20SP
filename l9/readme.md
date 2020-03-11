@@ -6,3 +6,4 @@
 - python代码 https://github.com/neubig/nn4nlp-code/tree/master/07-sentrep
 - 阅读材料 Illustrated BERT (Alammar 2019); Pre-trained Language Model Papers (Wang and Zhang 2019)
 - 本章要学习的内容非常重要，最近也很火。 包括Sentence Representations, Contextual Word Representations 如果你对其不很了解，请移步这里的其他资源 http://phontron.com/class/nn4nlp2020/schedule/contextualword-sentemb.html
+
