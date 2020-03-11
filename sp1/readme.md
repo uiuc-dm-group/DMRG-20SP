@@ -7,9 +7,9 @@
 
 领讲人：Lan Li
 
-文章地址： https://arxiv.org/pdf/1508.04025)
+文章地址：Click [here](https://arxiv.org/pdf/1508.04025)
 
-辅助ppt: https://docs.google.com/presentation/d/10AanI_S8xEpPpIuRRDRY7XGK55xVzsLcVCG8-G1DeW0/edit#slide=id.p
+辅助ppt: Click [here](https://docs.google.com/presentation/d/10AanI_S8xEpPpIuRRDRY7XGK55xVzsLcVCG8-G1DeW0/edit#slide=id.p)
 
 小组讨论录像：Click [here](https://youtu.be/KLjqGPsNNnk)
 
