@@ -20,9 +20,9 @@ Yingjun Guan, Liri Fang, Mengfei Lan, Yixing Hu, Yiren Liu, Xiaoliang Jiang, Lan
 | 03/05/2020 |    L8   | Distributional Semantics and Word Vectors  | Yixing Hu | [Here](https://github.com/uiuc-dm-group/DMRG-20SP/tree/master/l8) |   |
 | 03/10/2020 |    Sp1  | Paper Presentation Rehearsal  | Lan Li | [Here](https://github.com/uiuc-dm-group/DMRG-20SP/tree/master/sp1) |   |
 | 03/12/2020 |    L9  | sentence and contextual word representation | Yingjun | [Here](https://github.com/uiuc-dm-group/DMRG-20SP/tree/master/l9) |   |
-| 03/17/2020 |    L10  | Project Presentation | Haoran Zhang | [Here](https://github.com/uiuc-dm-group/DMRG-20SP/tree/master/sp2) |   |
+| 03/17/2020 |    Sp2  | Project Presentation | Haoran Zhang | [Here](https://github.com/uiuc-dm-group/DMRG-20SP/tree/master/sp2) |   |
 | 03/19/2020 |    -  | Spring Break  |  | - |   |
-| 03/24/2020 |    L12  | Generating Trees or Graphs Incrementally |  | [Here](https://github.com/uiuc-dm-group/DMRG-20SP/tree/master/l12) |   |
+| 03/24/2020 |    L12-13  | Generating Trees or Graphs Incrementally |  | [Here](https://github.com/uiuc-dm-group/DMRG-20SP/tree/master/l12) |   |
 | 03/26/2020 |    L11  | Structured Prediction with Local Independence Assumptions  | Ziqi Jiang | [Here](https://github.com/uiuc-dm-group/DMRG-20SP/tree/master/l11) |   |
 | 03/26/2020 |    L13  | Generating Trees with Dynamic Programs |  | [Here](https://github.com/uiuc-dm-group/DMRG-20SP/tree/master/l13) |   |
 | 03/31/2020 |    L14  | Search-based Structured Prediction |  | [Here](https://github.com/uiuc-dm-group/DMRG-20SP/tree/master/l14) |   |
