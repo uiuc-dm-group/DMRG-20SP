@@ -2,11 +2,11 @@
 
 活动时间: 03.24.2020
 
-参与成员：
+参与成员：Yingjun,Lan Li, Haoran Zhang, Yixing Hu, Gaozheng Liu, Lan Wang, Mengfei Lan
 
 领讲人：Yingjun
 
-小组讨论录像：Click [here]()
+小组讨论录像：Click [here](https://youtu.be/iRbBNdfnHr8)
 
 其他学习资料如下：
 
