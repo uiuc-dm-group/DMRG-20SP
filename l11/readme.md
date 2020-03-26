@@ -2,11 +2,11 @@
 
 活动时间: 03.26.2020
 
-参与成员：
+参与成员：Haoran Zhang, Yiren Liu, Yingjun Guan, Lan Wang, Yixing Hu,Ziqi jiang, Mengfei Lan
 
 领讲人：Ziqi Jiang
 
-小组讨论录像：Click [here]()
+小组讨论录像：Click [here](https://youtu.be/LzHtc-7jShM)
 
 其他学习资料如下：
 
