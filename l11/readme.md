@@ -1,4 +1,4 @@
-学习主题：Lecture 11 - Generating Trees or Graphs Incrementally
+学习主题：Lecture 11 - Structured Prediction with Local Independence Assumptions 
 
 活动时间: 03.26.2020
 
