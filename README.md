@@ -25,10 +25,12 @@ Yingjun Guan, Liri Fang, Mengfei Lan, Yixing Hu, Yiren Liu, Xiaoliang Jiang, Lan
 | 03/24/2020 |    L12  | Generating Trees or Graphs Incrementally | Yingjun Guan | [Here](https://github.com/uiuc-dm-group/DMRG-20SP/tree/master/l12) |   |
 | 03/26/2020 |    L11  | Structured Prediction with Local Independence Assumptions  | Ziqi Jiang | [Here](https://github.com/uiuc-dm-group/DMRG-20SP/tree/master/l11) |   |
 | 03/31/2020 |    L13  | Generating Trees with Dynamic Programs | Yingjun Guan | [Here](https://github.com/uiuc-dm-group/DMRG-20SP/tree/master/l13) |   |
-| 04/02/2020 |    L15  | Minimum Risk Training and Reinforcement Learning | Yiren Liu | [Here](https://github.com/uiuc-dm-group/DMRG-20SP/tree/master/l15) |   |
-| 04/07/2020 |    L14?  | Search-based Structured Prediction? |  | [Here](https://github.com/uiuc-dm-group/DMRG-20SP/tree/master/l14) |   |
-| 04/09/2020 |    L18  | Adversarial Methods for Text | Liri Fang | [Here](https://github.com/uiuc-dm-group/DMRG-20SP/tree/master/l18) |   |
-| 04/14/2020 |    L14?  | Search-based Structured Prediction? |  | [Here](https://github.com/uiuc-dm-group/DMRG-20SP/tree/master/l14) |   |
+| 04/09/2020 |    L15  | Minimum Risk Training and Reinforcement Learning | Yiren Liu | [Here](https://github.com/uiuc-dm-group/DMRG-20SP/tree/master/l15) |   |
+| 04/16/2020 |    L18  | Adversarial Methods for Text | Liri Fang | [Here](https://github.com/uiuc-dm-group/DMRG-20SP/tree/master/l18) |   |
+| 05/12/2020 |    L20  | Unsupervised and Semi-supervised Learning of Structure |  | [Here](https://github.com/uiuc-dm-group/DMRG-20SP/tree/master/l20) |   |
+| 05/14/2020 |    L22  | Modeling Long Sequences |  | [Here](https://github.com/uiuc-dm-group/DMRG-20SP/tree/master/l22) |   |
+| 05/19/2020 |    L23  | Learning from/for Knowledge Graphs |  | [Here](https://github.com/uiuc-dm-group/DMRG-20SP/tree/master/l23) |   |
+| 05/21/2020 |    L25  | Text Generation |  | [Here](https://github.com/uiuc-dm-group/DMRG-20SP/tree/master/l25) |   |
 
 
 course webpage: http://www.phontron.com/class/nn4nlp2020/
