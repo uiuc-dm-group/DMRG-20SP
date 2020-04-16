@@ -6,7 +6,7 @@
 
 领讲人：Liri Fang
 
-小组讨论录像：Click [here](https://youtu.be/5JGuGKe0trw)
+小组讨论录像：Click [here](https://youtu.be/lnQoGQD0wE0)
 
 小组讨论文档：Click [here](https://docs.google.com/document/d/1D4whF7vcEvn7nvDN2R5JLuXdJ0-SGGBozyoWD5JvtzU/edit#)
 
