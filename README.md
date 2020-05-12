@@ -29,7 +29,7 @@ Yingjun Guan, Liri Fang, Mengfei Lan, Yixing Hu, Yiren Liu, Xiaoliang Jiang, Lan
 | 04/16/2020 |    Sp3  | Adversarial Methods for Text | Liri Fang | [Here](https://github.com/uiuc-dm-group/DMRG-20SP/tree/master/sp3) |  L18 |
 | 05/12/2020 |    L22  | Modeling Long Sequences | Yingjun Guan | [Here](https://github.com/uiuc-dm-group/DMRG-20SP/tree/master/l22) |   |
 | 05/14/2020 |    L20  | Unsupervised and Semi-supervised Learning of Structure | Lan Wang | [Here](https://github.com/uiuc-dm-group/DMRG-20SP/tree/master/l20) |   |
-| 05/19/2020 |    L23  | Learning from/for Knowledge Graphs | TBD | [Here](https://github.com/uiuc-dm-group/DMRG-20SP/tree/master/l23) |   |
+| 05/19/2020 |    L23  | Learning from/for Knowledge Graphs | Gaozheng Liu | [Here](https://github.com/uiuc-dm-group/DMRG-20SP/tree/master/l23) |   |
 | 05/21/2020 |    L25  | Text Generation | Mengfei Lan | [Here](https://github.com/uiuc-dm-group/DMRG-20SP/tree/master/l25) |   |
 
 
